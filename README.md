@@ -29,7 +29,7 @@ Academic Year | Standard | School Name
 ---
 Here is a list of the courses we have been prescribed for the Spring Semester 2023:
 
-- [Software Tools]():
+- [Software Tools](https://iitgoa.ac.in/wp-content/uploads/Curriculum_CSE_2019.pdf):
 	* Course Code: **CS102** 
 	* Course Instructor: _Dr. Clint P. George_
 
@@ -37,19 +37,19 @@ Here is a list of the courses we have been prescribed for the Spring Semester 20
 	* Course Code: **PH102**
 	* Course Instructor: _Dr Santosh Kumar_
 
-- Ordinary Differential Equations:
+- [Ordinary Differential Equations](https://iitgoa.ac.in/mathematics-about/):
 	* Course Code : **MA103**
 	* Course Instructor: _Dr Saumya Bajpai_
 
-- Introduction to Computer-Aided Graphics and Engineering Drawing: 
+- [Introduction to Computer-Aided Graphics and Engineering Drawing](https://iitgoa.ac.in/school-of-mechanical-sciences/): 
 	* Course Code : **MA103**
-	* Course Instructor: _Dr Saumya Bajpai_
+	* Course Instructor: _Dr Arindam Das_
 
 - Introduction to Biology:
 	* Course Code : **BIO101**
 	* Course Instructor: _Dr Nipa Chongdar_
 	
-- Introduction to Electrical and Electronics Engineering:
+- [Introduction to Electrical and Electronics Engineering](https://www.iitgoa.ac.in/~npnandakumar/ee101_new.html):
 	* Course Code : **EE101**
 	* Course Instructor: _Dr Bidhan Pramanick_
 
