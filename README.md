@@ -6,7 +6,7 @@
 _Name:_ Uday P. Nayar  
 <br>
 _Profile pic:_  
- ![image](https://img-getpocket.cdn.mozilla.net/296x148/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F36d0d05d-47f7-4aad-8cea-47b106624815.jpeg)
+ ![image](https://img.freepik.com/free-vector/it-takes-two-tango-idiom_1308-17930.jpg?w=900&t=st=1682401912~exp=1682402512~hmac=98d68ea0020faeccb2c6cfd84387da39f5a9ed10cc1be9d56f93567a6d2de891)
 
 <br>
 
@@ -25,7 +25,7 @@ Academic Year | Standard | School Name
 
 <br><br>  
   
-## Course @IIT Goa
+## Courses @IIT Goa
 ---
 Here is a list of the courses we have been prescribed for the Spring Semester 2023:
 
