@@ -29,7 +29,7 @@ Academic Year | Standard | School Name
 ---
 Here is a list of the courses we have been prescribed for the Spring Semester 2023:
 
-- Software Tools:
+- [Software Tools]():
 	* Course Code: **CS102** 
 	* Course Instructor: _Dr. Clint P. George_
 
@@ -42,11 +42,16 @@ Here is a list of the courses we have been prescribed for the Spring Semester 20
 	* Course Instructor: _Dr Saumya Bajpai_
 
 - Introduction to Computer-Aided Graphics and Engineering Drawing: 
+	* Course Code : **MA103**
+	* Course Instructor: _Dr Saumya Bajpai_
 
 - Introduction to Biology:
-
+	* Course Code : **BIO101**
+	* Course Instructor: _Dr Nipa Chongdar_
+	
 - Introduction to Electrical and Electronics Engineering:
-
+	* Course Code : **EE101**
+	* Course Instructor: _Dr Bidhan Pramanick_
 
 <br><br>
 
