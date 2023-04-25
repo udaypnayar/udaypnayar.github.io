@@ -5,7 +5,7 @@
 
 _Name:_ Uday P. Nayar
 _Profile pic:_
- ![image][1]
+ ![image](https://img-getpocket.cdn.mozilla.net/296x148/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F36d0d05d-47f7-4aad-8cea-47b106624815.jpeg This is supposed to be my profile image...)
 
 <br><br>
 
@@ -61,4 +61,4 @@ Here is a list of the courses we have been prescribed for the Spring Semester 20
 That was it in a _nutshell_.
 
 
-[1]: https://img-getpocket.cdn.mozilla.net/296x148/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F36d0d05d-47f7-4aad-8cea-47b106624815.jpeg This is supposed to be my profile image...
+
