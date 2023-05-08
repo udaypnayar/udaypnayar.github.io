@@ -3,11 +3,12 @@
 ## About Me
 ---
 
-_Name:_ Uday P. Nayar
-_Profile pic:_
- ![image][1]
+_Name:_ Uday P. Nayar  
+<br>
+_Profile pic:_  
+ ![image](https://img.freepik.com/free-vector/it-takes-two-tango-idiom_1308-17930.jpg?w=900&t=st=1682401912~exp=1682402512~hmac=98d68ea0020faeccb2c6cfd84387da39f5a9ed10cc1be9d56f93567a6d2de891)
 
-<br><br>
+<br>
 
 **Description:**
 I'm a first year student of Mathematics and Computing (2022 Batch) at the [Indian Institute of Technology, Goa](https://iitgoa.ac.in/).  
@@ -24,11 +25,11 @@ Academic Year | Standard | School Name
 
 <br><br>  
   
-## Course @IIT Goa
+## Courses @IIT Goa
 ---
 Here is a list of the courses we have been prescribed for the Spring Semester 2023:
 
-- Software Tools:
+- [Software Tools](https://iitgoa.ac.in/wp-content/uploads/Curriculum_CSE_2019.pdf):
 	* Course Code: **CS102** 
 	* Course Instructor: _Dr. Clint P. George_
 
@@ -36,16 +37,21 @@ Here is a list of the courses we have been prescribed for the Spring Semester 20
 	* Course Code: **PH102**
 	* Course Instructor: _Dr Santosh Kumar_
 
-- Ordinary Differential Equations:
+- [Ordinary Differential Equations](https://iitgoa.ac.in/mathematics-about/):
 	* Course Code : **MA103**
 	* Course Instructor: _Dr Saumya Bajpai_
 
-- Introduction to Computer-Aided Graphics and Engineering Drawing: 
+- [Introduction to Computer-Aided Graphics and Engineering Drawing](https://iitgoa.ac.in/school-of-mechanical-sciences/): 
+	* Course Code : **MA103**
+	* Course Instructor: _Dr Arindam Das_
 
 - Introduction to Biology:
-
-- Introduction to Electrical and Electronics Engineering:
-
+	* Course Code : **BIO101**
+	* Course Instructor: _Dr Nipa Chongdar_
+	
+- [Introduction to Electrical and Electronics Engineering](https://www.iitgoa.ac.in/~npnandakumar/ee101_new.html):
+	* Course Code : **EE101**
+	* Course Instructor: _Dr Bidhan Pramanick_
 
 <br><br>
 
@@ -61,4 +67,4 @@ Here is a list of the courses we have been prescribed for the Spring Semester 20
 That was it in a _nutshell_.
 
 
-[1]: https://img-getpocket.cdn.mozilla.net/296x148/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F36d0d05d-47f7-4aad-8cea-47b106624815.jpeg This is supposed to be my profile image...
+
